@@ -10,4 +10,4 @@ I'm a GIS professional passionate about creating digital solutions using geospat
 <hr>
 <h3 class="heading-element" dir="auto">👩🏻‍💻 Languages | Tools | Skills</h3>
 
-**`FME Form/Flow`** **`Esri Stack`** **`ArcGIS Pro`** **`ArcGIS Enterprise/Online`** **`ArcGIS Field Data Capture Apps`** **`Experience Builder`** **`SQL`** **`SQL Server`** **`Azure`** **`Geospatial Data Science`** **`Geospatial Analytics`** **`Integrations`** **`Data Management`** **`ArcGIS Account Management`** **`Dashboard`** **`Agile Project Management`** **`Remote Sensing`** **`Geoprocessing`** **`Mapping`** **`Geosciences`** **`Environmental Science`**
+**`FME Form/Flow`** **`Esri Stack`** **`ArcGIS Pro`** **`ArcGIS Enterprise/Online`** **`ArcGIS Field Data Capture Apps`** **`Experience Builder`** **`SQL`** **`SQL Server`** **`Azure`** **`Geospatial Data Science`** **`Geospatial Analytics`** **`Integrations`** **`Data Management`** **`ArcGIS Account Management`** **`Dashboard`** **`Agile Project Management`** **`Remote Sensing`** **`Geoprocessing`** **`Mapping`** **`Geosciences`** **`Environmental Science`** **`Cartograph`**
