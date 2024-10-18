@@ -1,6 +1,6 @@
 # Ivy Araujo 🗺️ 
 
-**`GIS Solution Engineer/Analyst`**
+**`GIS & Data Solution Engineer`**
 
 
 
