@@ -1,4 +1,4 @@
-# Ivy Araujo 🗺️ 
+# Ivy Araujo 👩🏻‍💻</>🗺️🤖🧠🇦🇮👾
 
 **`GIS & Data Solution Engineer`**
 
