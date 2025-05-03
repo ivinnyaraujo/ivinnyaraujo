@@ -2,7 +2,7 @@
 
 **`GIS & Data Solution Engineer`**
 
-Check out my [LinkedIn](https://www.linkedin.com/in/ivinnyaraujo/) and [GitHub](https://github.com/ivinnyaraujo) to know more.
+Check out my [LinkedIn](https://www.linkedin.com/in/ivinnyaraujo/) and [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/ivinnybarrosdearaujo-0413/) to know more.
 
 
 <hr>
