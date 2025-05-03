@@ -1,6 +1,6 @@
 # Ivy Araujo 👩🏻‍💻</>🗺️🤖🧠🇦🇮👾
 
-**`GIS & Data Solution Engineer`**
+**`Data & Geospatial Analytics Engineer`**
 
 Check out my [LinkedIn](https://www.linkedin.com/in/ivinnyaraujo/) and [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/ivinnybarrosdearaujo-0413/) to know more.
 
