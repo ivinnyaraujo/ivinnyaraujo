@@ -1,4 +1,4 @@
-# Ivy Araujo 👩🏻‍💻</>⛁📊🤖🧠🇦🇮🗺️👾
+# Ivy Araujo 👩🏻‍💻</>⛁📊🤖🧠🇦🇮🗺️
 
 **`Data & Geospatial Analytics Engineer`**
 
