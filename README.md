@@ -1,6 +1,6 @@
 # Ivy Araujo 👩🏻‍💻</>⛁📊🤖🧠🇦🇮🗺️
 
-**`Senior Geospatial and Data Engineer`**
+**`Data & Geospatial Analytics Engineer`**
 
 I bridge the gap between data engineering, analytics and GIS by delivering end-to-end data solutions that turn raw data into actionable insights and backend systems. My work spans spatial and tabular datasets and covers data integration, modelling, and reporting. I specialise in geospatial and data analysis, data integration, visualisation, and dashboard development, with applications across asset management, operational performance monitoring, and environmental analysis.
 
