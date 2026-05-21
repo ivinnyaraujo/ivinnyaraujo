@@ -1,10 +1,10 @@
 # Ivy Araujo 👩🏻‍💻</>⛁📊🤖🧠🇦🇮🗺️
 
-**`Data & Geospatial Analytics Engineer`**
+**`Data Analytics Engineer`**
 
-I bridge the gap between data engineering, analytics and GIS by delivering end-to-end data solutions that turn raw data into actionable insights and backend systems. My work spans spatial and tabular datasets and covers data integration, modelling, and reporting. I specialise in geospatial and data analysis, data integration, visualisation, and dashboard development, with applications across asset management, operational performance monitoring, and environmental analysis.
+I bridge the gap between data engineering, analytics, and GIS by delivering end-to-end data solutions that transform raw data into scalable analytics platforms, actionable insights, and backend systems. My expertise spans analytics engineering, data engineering, geospatial analysis, visualisation, and dashboard development, with experience working across spatial and tabular datasets in asset management, operational performance monitoring, and environmental analysis.
 
-I have experience architecting data and semantic models, developing ETL pipelines, and orchestrating data workflows to enable scalable, enterprise-wide analytics and support backend applications. I also lead geospatial and data projects using Agile/Scrum methodology, ensuring solutions are delivered efficiently and iteratively.
+I have experience architecting data and semantic models, developing ETL pipelines, and orchestrating data workflows to enable enterprise-scale analytics and support backend applications. I also lead data and spatial projects using Agile/Scrum methodologies, ensuring solutions are delivered efficiently and iteratively.
 
 Check out my [LinkedIn](https://www.linkedin.com/in/ivinnyaraujo/) and [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/ivinnybarrosdearaujo-0413/?tab=credentials-tab) to know more.
 
