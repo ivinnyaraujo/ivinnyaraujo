@@ -1,6 +1,6 @@
 # Ivy Araujo 👩🏻‍💻</>⛁📊🤖🧠🇦🇮🗺️
 
-**`Data Analytics Engineer`**
+**`Data Insights & Engineer`**
 
 I develop end-to-end data solutions that turn raw, complex data into scalable analytics products, actionable insights, and backend systems. With expertise spanning data engineering, analytics, visualisation, and geospatial, I bring an unique combination of technical depth and business acumen, working across both tabular and spatial datasets applied to asset management, operations, contract performance, and environmental analysis.
 
